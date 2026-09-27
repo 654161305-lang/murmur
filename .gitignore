@@ -1,0 +1,23 @@
+# Local builds and Python caches
+build/
+__pycache__/
+*.py[cod]
+.DS_Store
+.venv/
+venv/
+
+# Recordings, diagnostics, and local settings
+*.f32
+*.aiff
+*.wav
+*.mp3
+*.log
+*.env
+.env.*
+dictionary.txt
+
+# Credentials and signing materials
+*.key
+*.pem
+*.p12
+*.mobileprovision
